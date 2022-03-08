@@ -1,0 +1,14 @@
+.AuthMenu {
+    position: fixed;
+    right: 15px;
+    top: 10px;
+}
+
+.authMenu {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.AuthMenu img {
+    width: 20px;
+}

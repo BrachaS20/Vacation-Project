@@ -1,0 +1,22 @@
+{
+    "name": "non-secured-website-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "author": "Assaf Finkelshtein",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "express-fileupload": "^1.2.1",
+        "fs": "0.0.1-security",
+        "joi": "^17.4.2",
+        "jsonwebtoken": "^8.5.1",
+        "mysql": "^2.17.1",
+        "socket.io": "^4.2.0",
+        "uuid": "^8.3.2"
+    }
+}
